@@ -212,9 +212,11 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 OUTPUT 1:
-![output](.\img\output1.png)
+![output](./img/output1.png)
+OUTPUT 2:
 ![output](./img/output2.png)
-
+OUTPUT 3:
+![output](./img/output3.png)
 ## Result:
 
 Thus a website is designed and validated for paint application using HTML5 canvas.
